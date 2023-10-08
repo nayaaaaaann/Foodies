@@ -42,7 +42,7 @@
 }
 .home::before{
     content: "";
-    background: url("top-view-food-frame-with-copy-space.jpg") no-repeat center center/cover;
+    background: url("https://nayaaaaaann.github.io/Foodies/img/top-view-food-frame-with-copy-space.jpg") no-repeat center center/cover;
     position: absolute;
     z-index: -2;
     height: 80vh;
