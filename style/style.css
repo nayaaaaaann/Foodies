@@ -268,7 +268,7 @@ body{
     background-color:#444444;
     padding: 20px;
     padding-top: 60px;
-    padding-bottom: 10%;
+    padding-bottom: 5%;
     padding-right: 42%;
     padding-left: 5%;
     margin-left: -1%;
@@ -307,7 +307,7 @@ body{
 .title4 {
 
 position: absolute;
-top: 400%;
+top: 410%;
     left: 38%;
     color:white;
     font-size: 18px;
