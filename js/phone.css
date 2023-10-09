@@ -147,7 +147,7 @@
 .title4 {
 
     position: absolute;
-    top: 577%;
+    top: 570%;
         left: 17%;
         text-align: center;
         color:white;
@@ -210,13 +210,13 @@
     flex-direction:row;
     flex-wrap: wrap;
     position: relative;
-    left: 33%;
+    left: 35%;
     margin-top: 10%;
 }
 .footer-content {
-    margin: 15px;
+    margin: 14px;
     margin-top: -2%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 10px;
+    font-size: 14px;
     text-align: center;
 }
