@@ -1,2 +1,2 @@
 # Foodies
- It is project for foods.
+ It's a project of food website (front end)
